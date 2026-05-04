@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "ticketflick-seats-filled-pct-predictor",
+    "version": 1,
+    "run_id": "883505600b7d4d7199418f086bacaa49",
+    "source_metric": "mae",
+    "source_metric_value": 0.0
+}

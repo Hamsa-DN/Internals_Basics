@@ -1,0 +1,18 @@
+{
+    "experiment_name": "ticketflick-seats-filled-pct",
+    "models": [
+        {
+            "name": "Ridge",
+            "mae": 6.89221356284502,
+            "rmse": 8.114517144885674
+        },
+        {
+            "name": "RandomForest",
+            "mae": 18.88686000000002,
+            "rmse": 24.43842804858776
+        }
+    ],
+    "best_model": "Ridge",
+    "best_metric_name": "mae",
+    "best_metric_value": 6.89221356284502
+}
